@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Say Moon</h1>
-<h3 align="center">A passionate data science and analytics practitioner</h3>
+<h3 align="center">An engineer passionate in data science and analytics practitioner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"></img>
 - 🌱 I’m currently learning Data Science, Data Analytics and Machine Learning
